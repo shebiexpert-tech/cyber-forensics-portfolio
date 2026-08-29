@@ -29,6 +29,12 @@ Analyzed an exported WhatsApp chat log, extracted embedded shared-location links
 `lockdown-incident-response-report.pdf`
 Full incident response investigation combining network forensics (Wireshark), memory forensics (Volatility 3), and malware analysis. Traced a complete attack chain from reconnaissance through web-shell deployment to execution of an AgentTesla RAT payload.
 
+
+### 4. Tusk Infostealer Threat Intelligence Report
+`tusk-infostealer-threat-intel-report.pdf`
+Analyzed a malware sample hash using VirusTotal to identify a multi-stage Rhadamanthys infostealer infection chain. Traced the malware from its dropped payload back through its parent loader and root dropper, and documented the threat's cryptocurrency wallet-targeting capabilities in a formal threat intelligence report.
+
+
 ## Tools Used
 | Tool | Purpose |
 |---|---|
