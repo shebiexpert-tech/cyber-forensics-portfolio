@@ -25,6 +25,10 @@ Traced fund movement of a publicly documented Ethereum wallet using Etherscan. I
 `whatsapp-forensic-report.pdf`
 Analyzed an exported WhatsApp chat log, extracted embedded shared-location links, and resolved them to their real-world physical addresses to demonstrate location-tracing methodology used in digital investigations.
 
+### 3. Lockdown Incident Response Report
+`lockdown-incident-response-report.pdf`
+Full incident response investigation combining network forensics (Wireshark), memory forensics (Volatility 3), and malware analysis. Traced a complete attack chain from reconnaissance through web-shell deployment to execution of an AgentTesla RAT payload.
+
 ## Tools Used
 | Tool | Purpose |
 |---|---|
