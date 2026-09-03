@@ -34,6 +34,9 @@ Full incident response investigation combining network forensics (Wireshark), me
 `tusk-infostealer-threat-intel-report.pdf`
 Analyzed a malware sample hash using VirusTotal to identify a multi-stage Rhadamanthys infostealer infection chain. Traced the malware from its dropped payload back through its parent loader and root dropper, and documented the threat's cryptocurrency wallet-targeting capabilities in a formal threat intelligence report.
 
+### 5. FakeGPT Malicious Extension Analysis Report
+`fakegpt-extension-analysis-report.pdf`
+Performed static source-code analysis of a malicious browser extension disguised as a "ChatGPT" assistant. Identified sandbox-evasion logic, credential-harvesting and keylogging functionality targeting Facebook, hardcoded encryption keys, and the attacker's exfiltration domain.
 
 ## Tools Used
 | Tool | Purpose |
