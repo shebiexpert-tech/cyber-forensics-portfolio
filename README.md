@@ -1,10 +1,9 @@
-# cyber-forensics-portfolio
 # Cyber Forensics Portfolio — Muhammad Shoaib
 
-Digital Forensics | Crypto Tracing | CHFI Aspirant (CEH Certified)
+Digital Forensics | Crypto Tracing | Ethical Hacking & Cyber Security Trained
 
 ## About Me
-Certified Ethical Hacker (CEH) transitioning into Digital Forensics and Incident Response (DFIR), with a focus on cryptocurrency transaction tracing and mobile/messaging app forensics. Hands-on practice with industry-standard tools including Autopsy, FTK Imager, Wireshark, Volatility, and blockchain explorers.
+Cyber Security enthusiast with hands-on training in Ethical Hacking and a growing focus on Digital Forensics and Incident Response (DFIR), specializing in cryptocurrency transaction tracing and mobile/messaging app forensics. Practical experience with industry-standard tools including Autopsy, FTK Imager, Wireshark, Volatility, and blockchain explorers. Currently pursuing further certifications to formalize expertise.
 
 ## Skills
 - Disk imaging & evidence acquisition (FTK Imager)
